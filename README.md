@@ -7,7 +7,4 @@ https://www.edaplayground.com/x/ZxB9
 
 ## Files
 - design.sv: APB slave design
-- Other .sv files: UVM testbench (driver, monitor, scoreboard, etc.)
-
-## What I added
-- [write only what you really added]
+- All other .sv files: UVM testbench (driver, monitor, scoreboard, reference model, etc.)
